@@ -32,3 +32,14 @@ If you find new urls, create a pull request or an issue to add them to the list.
 0.0.0.0   trker1.azalead.com
 0.0.0.0   mkto-k0023.com
 ````
+
+# Who would DO this?!
+There are a lot of e-mail tracking tools online, for example:
+- Yesware http://www.yesware.com
+- MailChimp http://www.mailchimp.com
+- Sidekick by Hubspot https://app.getsidekick.com/
+- ToutApp https://www1.toutapp.com
+- Streak https://www.streak.com
+- ContactMonkey http://www.contactmonkey.com
+- MailTrack https://mailtrack.io/en/
+- SalesHandy https://www.saleshandy.com
