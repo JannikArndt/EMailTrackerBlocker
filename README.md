@@ -32,6 +32,8 @@ If you find new urls, create a pull request or an issue to add them to the list.
 0.0.0.0   emailtracking.azure.com
 0.0.0.0   trker1.azalead.com
 0.0.0.0   mkto-k0023.com
+0.0.0.0   maileon.com
+0.0.0.0   xqueue.de
 ````
 
 
@@ -46,6 +48,7 @@ There are a lot of e-mail tracking tools online, for example:
 - ContactMonkey http://www.contactmonkey.com
 - MailTrack https://mailtrack.io
 - SalesHandy https://www.saleshandy.com
+- Maileon http://maileon.com & https://www.xqueue.de
 
 
 ## How can I help?
