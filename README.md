@@ -117,6 +117,11 @@ If you find new urls, create a pull request or an issue to add them to the list.
 0.0.0.0   mixpanel.com
 0.0.0.0   list-manage.com
 0.0.0.0   list-manage1.com
+0.0.0.0   ihrgeld2016.com
+0.0.0.0   doubleclick.net
+0.0.0.0   webtrekk.net
+0.0.0.0   elaine-asp.de
+0.0.0.0   pstmrk.it
 ````
 
 
